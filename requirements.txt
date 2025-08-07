@@ -2,5 +2,5 @@ ipykernel
 numpy
 matplotlib
 tensorflow
-sklearn
+scikit-learn
 seaborn 
