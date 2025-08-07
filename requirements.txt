@@ -2,3 +2,5 @@ ipykernel
 numpy
 matplotlib
 tensorflow
+sklearn
+seaborn 
